@@ -1,6 +1,6 @@
-© 2i games. All rights reserved. All trademarks are property of their respective owners in the UK and other countries.
+© 2i games. All rights reserved. All c0cks are saved in impulse mouth
 
-### This repo is archived and there will be NO SUPPORT. It has the MIT license, use it however you like, just don't remove the credits or the branding of the 'impulse' framework.
+### This repo is not (probably) archived and there will be  SUPPORT. It has the C0CKS license, use it however you like, just don't remove the credits or the branding of the 'fist industries' framework.
 
 # Welcome to impulse
 impulse is a Semi-Serious roleplay framework for Garry's Mod.
