@@ -1,0 +1,6 @@
+db:
+ip: "localhost"
+username: "root"
+password: ""
+database: "impulse"
+port: 3306
